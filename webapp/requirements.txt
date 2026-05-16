@@ -1,0 +1,15 @@
+streamlit
+numpy
+pillow
+tensorflow
+torch
+transformers
+peft
+accelerate
+sentence-transformers
+evaluate
+rouge-score
+nltk
+scikit-learn
+safetensors
+huggingface_hub
